@@ -1,5 +1,6 @@
 # Generation
-Repo de Generation CH29 V2
+## Repo de Generation CH29 V2
+### Listado de pasos
 
 1. Se crea el repositorio en la cuenta de GitHub.com
 2. Se clona el repositorio mediante ssh de forma local 
